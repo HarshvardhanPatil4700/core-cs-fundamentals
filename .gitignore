@@ -1,5 +1,21 @@
+# IntelliJ
 .idea/
 *.iml
+*.ipr
+*.iws
 out/
+
+# Maven
 target/
+
+# Compiled files
 *.class
+
+# Logs and crash files
+*.log
+hs_err_pid*
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
